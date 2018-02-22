@@ -1,0 +1,3 @@
+[submodule "deqp-web-harness"]
+	path = deqp-web-harness
+	url = https://github.com/kainino0x/deqp-web-harness.git
